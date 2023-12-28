@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+# Outpost
+
+Test
+
