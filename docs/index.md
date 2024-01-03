@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Links
+## Outpost
 
 Learn more about [sensor](sensors.md) selection and future features.
 
