@@ -3,7 +3,5 @@
   (lib (name "NBM5100")(type "KiCad")(uri "${KIPRJMOD}/libraries/NBM5100/NBM5100.kicad_sym")(options "")(descr ""))
   (lib (name "1070TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/1070TR/1070TR.kicad_sym")(options "")(descr ""))
   (lib (name "SHT41-AD1F-R2")(type "KiCad")(uri "${KIPRJMOD}/libraries/SHT41_AD1F_R2/SHT41-AD1F-R2.kicad_sym")(options "")(descr ""))
-  (lib (name "GRM32EC81C476KE15K")(type "KiCad")(uri "${KIPRJMOD}/libraries/GRM32EC81C476KE15K/GRM32EC81C476KE15K.kicad_sym")(options "")(descr ""))
-  (lib (name "GRM155R70J105KA12J")(type "KiCad")(uri "${KIPRJMOD}/libraries/GRM155R70J105KA12J/GRM155R70J105KA12J.kicad_sym")(options "")(descr ""))
   (lib (name "2023-12-23_10-28-27")(type "KiCad")(uri "${KIPRJMOD}/libraries/SRN4018_150M/2023-12-23_10-28-27.kicad_sym")(options "")(descr ""))
 )
